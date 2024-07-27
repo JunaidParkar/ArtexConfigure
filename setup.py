@@ -7,7 +7,7 @@ setup(
     description='A python library that writes your configuration into an .ini file',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/JunaidParkar/Python-Check_internet_status/',
+    url='https://github.com/JunaidParkar/ArtexConfigure',
     include_package_data=True,
     packages=find_packages(),
     install_requires=[
@@ -20,8 +20,8 @@ setup(
     ],
     python_requires='>=3.6',
     project_urls={
-        'Documentation': 'https://github.com/JunaidParkar/Python-Check_internet_status/',
-        'Source': 'https://github.com/JunaidParkar/Python-Check_internet_status/',
-        'Tracker': 'https://github.com/JunaidParkar/Python-Check_internet_status/',
+        'Documentation': 'https://github.com/JunaidParkar/ArtexConfigure',
+        'Source': 'https://github.com/JunaidParkar/ArtexConfigure',
+        'Tracker': 'https://github.com/JunaidParkar/ArtexConfigure',
     },
 )
